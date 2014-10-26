@@ -9,7 +9,7 @@ A small library providing nlp regex processing and text similarity functios. Wor
 
 ## Usage
 
-  See index.js
+  See example in index.js
 
 ## Release History
 
